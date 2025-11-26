@@ -6,3 +6,12 @@
         height: 100vw !important;
     }
 }
+@media (max-height: 400px) {
+    p {
+        font-size: 0.35rem;
+    }
+
+    .main {
+        height: 100vw !important;
+    }
+}
